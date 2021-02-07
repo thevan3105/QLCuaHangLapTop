@@ -15,21 +15,28 @@ khá đầy đủ và gần như hoàn thiện từ:
 - báo cáo thống kê theo thời gian chọn,...
 ## Một số hình ảnh trong app
 * giao diện login
+
 ![alt](img/login.png)
 _________________________________
 * giao diện home
+
 ![alt](img/home.png)
 _________________________________
 * giao diện nhập hàng
+
 ![alt](img/nhaphang.png)
 _________________________________
 * giao diện sản phẩm
+
 ![alt](img/sanpham.png)
 _________________________________
 * giao diện hóa đơn
+
 ![alt](img/hoadon.png)
 _________________________________
 * giao diện thống kê
+
 ![alt](img/thongke.png)
 _________________________________
+
 &gt; nhóm ăn kem
