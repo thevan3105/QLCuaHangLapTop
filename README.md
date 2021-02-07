@@ -1,6 +1,7 @@
 # Phần mềm quản lý cửa hàng laptop be bé 💻🖱
 
 *do viết lâu rồi giờ up lại nên không biết có chuẩn hết hay không*
+
 ***use net framework 4.5***
 
 ## Chức năng
